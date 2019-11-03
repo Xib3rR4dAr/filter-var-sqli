@@ -68,3 +68,6 @@ Therefore it can be used when FILTER_SANITIZE_EMAIL and WAF are in place.
 You can try these in vulnerable login.php file
 
 Happy Bypassing ^i^
+
+## Disclaimer
+The contributor(s) cannot be held responsible for what you do with the information and code provided. This is intended for professional and educational purposes only.
